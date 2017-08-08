@@ -2,5 +2,3 @@
 *.jar
 .gitignore
 .classpath
-/.gitignore.txt
-/.project
